@@ -5,17 +5,6 @@
 > Working with virtual machines? Make sure to enable "3d Acceleration" in the vm settings.
 
 
-<a href='#'><img align="center" src="./Assets/preview.png" alt="Cozytile"></a>
-
-
-<div align="left">
-
-Hey there! Dive in and enjoy the setup. Thanks for stopping by!
-
-</div>
-
-<div align="left">
-
 ## INSTALLATION  (Arch Linux)
 </div>
 
